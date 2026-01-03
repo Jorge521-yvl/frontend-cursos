@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    margin: 40px;
+    border: 5px solid;
+}
+h2{
+    color: green;
+    font-size: 1rem;
+}
+h3{
+    color: aqua;
+}
